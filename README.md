@@ -9,5 +9,5 @@
 
 # Портфолио
 <kbd>
-  <img src="/Desktop/foto1.jpg" />
+  <img src="/foto/foto1.jpg" />
 </kbd>
