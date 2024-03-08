@@ -3,9 +3,9 @@
 # ФИО
 Пысларь Виталий Георгиевич
 # Дата
-31/10/1985
+*31/10/1985*
 # Образование
 Высшее экономическое)))
 
 # Портфолио
-- ![](C:\Users\pysla\Desktop\e62e6432-85f9-4158-b07f-85f28fddb8f3.jpg)
+[](https://drive.google.com/file/d/1FFF4kcy0qHVA31a-FH2bnryoN3ODXelz/view?usp=sharing)
