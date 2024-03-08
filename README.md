@@ -9,5 +9,5 @@
 
 # Портфолио
 <kbd>
-  <img src="C:\Users\pysla\Desktop/foto1.jpg" />
+  <img src="/Desktop/foto1.jpg" />
 </kbd>
