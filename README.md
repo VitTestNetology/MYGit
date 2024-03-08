@@ -8,9 +8,7 @@
 Высшее экономическое)))
 
 # Портфолио
-<kbd>
-  <img src="/foto/foto1.jpg"/>
-</kbd>
+![foto1](https://github.com/VitTestNetology/MYGit/assets/161206959/d7aa3597-b186-493e-a186-1ba2ff1280ce)
 
 # Домашнее задание к лекции «Командная работа в Git & GitHub. Часть 2.
 - [Задача №1: Работа с issues](https://github.com/netology-code/git-2-homeworks-issues/issues/5830)
