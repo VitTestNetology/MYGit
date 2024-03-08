@@ -9,7 +9,7 @@
 
 # Портфолио
 <kbd>
-  <img src="/foto/foto1.jpg" />
+  <img src="/foto/foto1.jpg"/>
 </kbd>
 
 # Домашнее задание к лекции «Командная работа в Git & GitHub. Часть 2.
