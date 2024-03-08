@@ -8,4 +8,4 @@
 Высшее экономическое)))
 
 # Портфолио
-[](https://drive.google.com/file/d/1FFF4kcy0qHVA31a-FH2bnryoN3ODXelz/view?usp=sharing)
+![](https://drive.google.com/file/d/1FFF4kcy0qHVA31a-FH2bnryoN3ODXelz/view?usp=sharing)
