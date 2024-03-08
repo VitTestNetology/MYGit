@@ -8,4 +8,6 @@
 Высшее экономическое)))
 
 # Портфолио
-![ФОТО](README.md/images/e62e6432-85f9-4158-b07f-85f28fddb8f3.jpg)
+<kbd>
+  <img src="/images/foto1.jpg" />
+</kbd>
